@@ -1,2 +1,0 @@
-# Fraudulent_Claim_Detection
-Upgrad assignment on Fraudulent_Claim_Detection
